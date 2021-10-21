@@ -1,0 +1,34 @@
+body{
+  background: linear-gradient(#03fcec 0%, #a974cc 100%);
+  text-align: center;
+  color:#6200EA;
+  font-size: 20px;
+}
+
+#books{
+  border-radius: 50%;
+}
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: opx;
+    top: 0px;
+    z-index : 10;
+    
+        
+}
+
+.links{
+    display: inline;
+    padding-left : 33px;
+    padding-right: 25px;
+    font-family: 'Glory', sans-serif;
+    font size: 20px;
+    color:;
+}
+
+.links:hover{
+    font-size : 25px;
+    background-color: #18FFFF;
+}
